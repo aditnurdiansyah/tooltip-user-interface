@@ -6,6 +6,20 @@ This project involves creating a modern, accessible, and responsive **Tooltip Us
 
 The project focuses on building accessible UI micro-interactions while applying essential frontend practices such as CSS positioning, pseudo-elements, accessibility standards, SEO meta tags, Open Graph (OG) integration for social sharing, favicon implementation, Google Fonts integration, and responsive design optimization.
 
+## Project Requirements
+
+* **CSS Positioning & Arrow Indicators**
+  Utilize CSS relative/absolute positioning, transforms, and pseudo-elements to position tooltips precisely relative to target elements (top, bottom, left, right) and render clean directional arrows.
+
+* **Semantic HTML & Accessibility (a11y)**
+  Incorporate ARIA attributes alongside proper focus management to ensure full screen reader accessibility and keyboard navigation support.
+
+* **Search Engine Optimization (SEO) Meta Tags**
+  Include essential metadata inside the `<head>` section to improve discoverability, page indexing, and structured metadata representation.
+
+* **Open Graph (OG) Tags**
+  Implement Open Graph tags to provide rich, optimized preview cards when sharing links on social media platforms.
+
 # Project Preview
 
 <p align="center">
