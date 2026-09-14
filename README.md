@@ -52,7 +52,23 @@ The project focuses on building accessible UI micro-interactions while applying 
 * [x] Smooth CSS animations and hover/focus transitions.
 * [x] Responsive layout and mobile viewport adaptation.
 
+## How to Use
 
+1. Clone or download this repository.
+
+```bash
+git clone https://github.com/aditnurdiansyah/tooltip-user-interface
+```
+
+2. Navigate to the project folder.
+
+```bash
+cd tooltip-user-interface
+```
+
+3. Open `index.html` in your browser.
+
+4. Customize tooltip positioning, trigger elements, colors, and animation styles according to your design specifications.
 
 # Project Preview
 
