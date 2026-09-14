@@ -90,3 +90,7 @@ By completing this project, the component serves as a reusable UI element suitab
 <p align="center">
   <img src="/assets/project-preview/contact.png" alt="Contact Preview" width="800">
 </p>
+
+This repository contains frontend projects built following the [Roadmap.sh](https://roadmap.sh/projects/tooltip-ui) frontend developer path.
+
+---
