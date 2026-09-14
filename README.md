@@ -20,6 +20,26 @@ The project focuses on building accessible UI micro-interactions while applying 
 * **Open Graph (OG) Tags**
   Implement Open Graph tags to provide rich, optimized preview cards when sharing links on social media platforms.
 
+* **Favicon**
+  Add a favicon for better browser tab recognition and cohesive visual branding.
+
+* **Responsive & Adaptive Layout**
+  Ensure tooltips wrap smoothly, remain visible on small screens, and adapt cleanly across mobile, tablet, and desktop viewports.
+
+* **Interactive States & Smooth Transitions**
+  Manage hover, focus, and active visual states using CSS transitions, opacity shifts, and transform animations for smooth user interactions.
+
+## Project Structure
+
+* **Homepage (`index.html`)**
+  The primary HTML document containing semantic page content, interactive buttons, navigation links, and tooltip triggers with ARIA markup.
+
+* **Styles (`css/style.css`)**
+  Contains custom CSS styling, tooltip positioning classes, directional arrows, animations, hover/focus states, and responsive layout rules.
+
+* **Assets (`assets/`)**
+  Directory containing favicons, Open Graph images, and project preview screenshots (`assets/project-preview/`).
+
 # Project Preview
 
 <p align="center">
