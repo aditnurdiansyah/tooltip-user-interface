@@ -40,6 +40,20 @@ The project focuses on building accessible UI micro-interactions while applying 
 * **Assets (`assets/`)**
   Directory containing favicons, Open Graph images, and project preview screenshots (`assets/project-preview/`).
 
+## Submission Checklist
+
+* [x] Semantically structured HTML page.
+* [x] SEO meta tags implemented.
+* [x] Open Graph tags included.
+* [x] Favicon configured.
+* [x] Accessible tooltips with proper ARIA attributes.
+* [x] Full keyboard navigation and focus state support.
+* [x] CSS positioning and directional tooltip arrows using pseudo-elements.
+* [x] Smooth CSS animations and hover/focus transitions.
+* [x] Responsive layout and mobile viewport adaptation.
+
+
+
 # Project Preview
 
 <p align="center">
